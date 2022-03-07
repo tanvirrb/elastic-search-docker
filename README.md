@@ -1,9 +1,6 @@
 ### Run the service
 ```npm run dev```
 
-### Kill the service
-```npm run dev:down```
-
 ### Create dummy index (using Faker)
 ```npm run index:create```
 
@@ -12,3 +9,6 @@
 
 ### Drop the whole dummy index
 ```npm run index:drop```
+
+### Kill the service
+```npm run dev:down```

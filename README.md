@@ -1,7 +1,7 @@
 ### Run the service
 ```npm run dev```
 
-### Kill the service (after ctrl+c or cmd+c)
+### Kill the service
 ```npm run dev:down```
 
 ### Create dummy index (using Faker)

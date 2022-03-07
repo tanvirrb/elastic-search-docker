@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "docker-compose up",
+    "dev": "docker-compose up -d",
     "dev:down": "docker-compose down",
     "index:create": "node indexData.js",
     "index:search": "node searchIndex.js",
